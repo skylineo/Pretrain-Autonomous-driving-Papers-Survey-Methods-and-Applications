@@ -27,8 +27,8 @@ This repo is constructed for collecting and categorizing papers about diffusion 
   - [Simple Combination](#1.4.1)
   - [Deep Collaboration](#1.4.2)
 
-## [Application Taxonomy](#2)
-* [Computer Vision](#2.1)
+## [Application](#2)
+* [Perception](#2.1)
   - [Image Super Resolution, Inpainting and Translation](#2.1.1)
   - [Semantic Segementation](#2.1.2)
   - [Video Generation](#2.1.3)
