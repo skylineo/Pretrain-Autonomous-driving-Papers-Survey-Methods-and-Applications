@@ -4,7 +4,7 @@ This repo is constructed for collecting and categorizing papers about diffusion 
 <div aligncenter><img width="900" alt="image" src="pictures linking">
 
 # Catalogue
-## [Algorithm Taxonomy](#1)
+## [Pretraining Strategy](#1)
 ### [Sampling-Acceleration Enhancement](#1.1)
   - [Learning-Free Sampling](#1.1.1)
     - [SDE Solver](#1.1.1.1)
