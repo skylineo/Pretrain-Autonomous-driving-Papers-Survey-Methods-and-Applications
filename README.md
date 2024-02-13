@@ -29,8 +29,8 @@ This repo is constructed for collecting and categorizing papers about diffusion 
 
 ## [Application](#2)
 * [Perception](#2.1)
-  - [Image Super Resolution, Inpainting and Translation](#2.1.1)
-  - [Semantic Segementation](#2.1.2)
+  - [Object Detection](#2.1.1)
+  - [Segementation](#2.1.2)
   - [Video Generation](#2.1.3)
   - [3D Generation](#2.1.4)
   - [Anomaly Detection](#2.1.5)
